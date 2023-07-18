@@ -50,7 +50,7 @@ psql -h localhost -p 5432 -U postgres -d postgres -f examples/providers/supabase
 
 ```bash
 export PG_HOST=localhost
-export PG_PORT=54322
+export PG_PORT=5432
 export PG_PASSWORD=mysecretpassword
 ```
 
